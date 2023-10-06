@@ -13,7 +13,6 @@ Currently working at [Whatfix](https://razorpay.com/). I'm a passionate learner 
 
 Joined Github 5+ years ago.
 
-[![](https://gitwar.herokuapp.com/badge?username=anshmehtamm&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/anshmehtamm) 
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; At the moment I know Java, Javascript, React, Tailwind CSS, GoLang, Python - Django, Android Development, Clickhouse, Cassandra
