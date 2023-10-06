@@ -15,7 +15,7 @@ Joined Github 5+ years ago.
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; At the moment I know Java, Javascript, React, Tailwind CSS, GoLang, Python - Django, Android Development, Clickhouse, Cassandra
+- 🛠 &nbsp; At the moment I know Java, Javascript, React, Tailwind CSS, Python - Django, Android Development, Clickhouse, Cassandra
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anshmehtamm).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/anshmehtamm/anshmehtamm/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
