@@ -115,6 +115,6 @@ Joined Github 5+ years ago.
 
 <div align="center">
 
-### Let's become friends on [Twitter](https://twitter.com/vikrantbhat1022)!
+### Let's become friends on [Twitter](https://twitter.com/Anshm15)!
 
 </div>
