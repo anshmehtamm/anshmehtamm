@@ -36,7 +36,7 @@ Joined Github 5+ years ago.
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://camo.githubusercontent.com/c3b3424df9a33164786f8645a6f474ab58dfc8531fdaf5d897749a9849ec55c9/68747470733a2f2f636c69636b686f7573652e636f6d2f696d616765732f63685f67685f6c6f676f5f726f756e6465642e706e67" alt="clickhouse"></code>
+<code><img height="27" src="https://en.wikipedia.org/wiki/File:Clickhouse.png" alt="clickhouse"></code>
 
 ### Projects and Dev Stuff:
 
