@@ -9,7 +9,7 @@
 
 <img align="right" width="100" alt="" src="assets/rzp.gif" />
 
-Currently working at [Whatfix](https://razorpay.com/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+Currently studying computer science at Northeastern University, and worked at [Whatfix](https://whatfix.com/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 Joined Github 5+ years ago.
 
