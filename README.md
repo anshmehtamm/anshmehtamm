@@ -35,66 +35,7 @@ Joined Github 5+ years ago.
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" alt="clickhouse"></code>
 
-### Projects and Dev Stuff:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshmehtamm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshmehtamm&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshmehtamm&hide_border=true" />
-</details>
-
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/anshmehtamm/world-countries-capitals">💻 Solving Travelling Salesman using Genetics! 🧬</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/anshmehtamm/genetic-travelling-salesman?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/anshmehtamm/genetic-travelling-salesman?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/anshmehtamm/genetic-travelling-salesman?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anshmehtamm/genetic-travelling-salesman?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/anshmehtamm/genetic-travelling-salesman?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/anshmehtamm/react-native-expo-starterkit"><b>📲⚛️ Meeting Link Extractor 🔗🚀</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/anshmehtamm/link-extract-chrome-extension?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/anshmehtamm/link-extract-chrome-extension?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/anshmehtamm/link-extract-chrome-extension?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anshmehtamm/link-extract-chrome-extension?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/anshmehtamm/link-extract-chrome-extension?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/anshmehtamm/anshmehtamm"><b>🤓 anshmehtamm</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/anshmehtamm/anshmehtamm?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/anshmehtamm/anshmehtamm?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/anshmehtamm/anshmehtamm?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/anshmehtamm/anshmehtamm?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
- 
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -108,7 +49,7 @@ Joined Github 5+ years ago.
 	</ul>	
 </details>
 
-#
+
 
 <div align="center">
 
