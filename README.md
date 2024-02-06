@@ -48,11 +48,3 @@ Joined Github 5+ years ago.
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	</ul>	
 </details>
-
-
-
-<div align="center">
-
-### Let's become friends on [Twitter](https://twitter.com/Anshm15)!
-
-</div>
