@@ -14,11 +14,11 @@ I love to explore and always learn and implement. Going in-depth and understandi
 - 💻 &nbsp; I love to learn and build.
 
 - 🍕 &nbsp; Hackathons are my place, the environment and the thrill is something I enjoy. Here are few of my hackathons
-	- DeveloperWeek 2024 - Winner [Submission]()
-	- MIT Energy Hackathon 2023
-	- Whatfix Annual Hackathon - Runner up
-  	- HackwithInfy 2020 - Finalist
-  	- LNMHack 3.0 - Organizer
+	- DeveloperWeek 2024 - Winner [Submission](https://devpost.com/software/newsswipe)
+	- MIT Energy Hackathon 2023 [a pic from the hack](https://www.linkedin.com/feed/update/urn:li:activity:7135041556691988480/)
+	- Whatfix Annual Hackathon
+  	- HackwithInfy 2020 - Finalist 
+  	- LNMHack 3.0 - Organizer [a pic](https://www.facebook.com/photo/?fbid=1911691092201293&set=a.218384548198631)
 
 - ✈️ &nbsp; Catching up with aviation and playing flight simulator are my freetime hobbies. I also play Cities Skylines 🏢 (just love building and see population thrive)		  
 
