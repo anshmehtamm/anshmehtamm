@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Ansh Mehta!](https://twitter.com/anshmht
+## Hey 👋, I'm [Ansh Mehta!]
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ansh-mehta.com/) -->
 
