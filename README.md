@@ -2,10 +2,6 @@
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ansh-mehta.com/) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshmht)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anshm15)
-
-
 I'm currently a graduate student in computer science, with minor in AI at Northeastern University. I've previously as a software engineer at [Whatfix](https://whatfix.com/). 
 I love to explore and always learn and implement. Going in-depth and understanding visually is the part I love the most in any topic I study. ✨
 
