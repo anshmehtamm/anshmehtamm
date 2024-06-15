@@ -2,7 +2,7 @@
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ansh-mehta.com/) -->
 
-I'm currently a graduate student in computer science, with minor in AI at Northeastern University. I've previously as a software engineer at [Whatfix](https://whatfix.com/). 
+I'm currently a graduate student in computer science, with minor in AI at Northeastern University. I was previously a software engineer at [Whatfix](https://whatfix.com/). 
 I love to explore and always learn and implement. Going in-depth and understanding visually is the part I love the most in any topic I study. ✨
 
 ### Personal things about me :
