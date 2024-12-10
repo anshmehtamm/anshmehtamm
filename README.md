@@ -35,4 +35,4 @@ I also know quite a bit in detail about Javascript and Web engines (primarly due
 	</ul>	
 </details>
 
-To Stay Updated:</b> my [Website](anshmehtamm.github.io/personal-website), [Medium](https://medium.com/@anshmehtamm), [Linkedin](linkedin.com/in/anshmht) and [Twitter](x.com/anshm15).
+To Stay Updated:</b> my [Website](https://anshmehtamm.github.io), [Medium](https://medium.com/@anshmehtamm), [Linkedin](https://linkedin.com/in/anshmht) and [Twitter](https://x.com/anshm15).
