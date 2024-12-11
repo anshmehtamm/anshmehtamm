@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?account_id=30555898)
 ## Hey, I'm [Ansh Mehta]
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ansh-mehta.com/) -->
